@@ -1,19 +1,5 @@
 package pract4;
 
-
-
-/**
- * Clase TimeInstant. 
- *
- * Esta clase permite representar instantes o marcas de tiempo
- * (Timestamp) con detalle de horas y minutos. Así, la clase 
- * representa un instante de tiempo o momento del día, en este
- * caso, las horas y los minutos de un día cualquiera.
- * 
- * 
- *  @author IIP. Grado en Informatica. ETSINF, UPV 
- *  @version Curso 2022-23
- */
 public class TimeInstant {
     // ATRIBUTOS:
     /** 
