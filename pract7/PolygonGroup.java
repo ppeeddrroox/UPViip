@@ -1,28 +1,7 @@
 package pract7;
 import pract7.Point;
 
-/**
- * Clase PolygonGroup. Grupo de poligonos en el plano.
- * Los poligonos estan en orden segun la secuencia en que se añaden
- * al grupo, de manera que se considera que cada poligono esta mas 
- * arriba en el grupo que los poligonos anteriores, o dicho de otro 
- * modo, se superpone a los anteriores. 
- * Se supone que el orden del grupo da la secuencia en que se dibujan
- * los poligonos, de manera que cada uno se dibuja por encima de los
- * anteriores, superponiendose a aquellos con los que solape.
- * 
- * Ademas de añadir poligonos al grupo, se puede seleccionar un poligono
- * para eliminarlo, para trasladar sus coordenadas en el plano, o para
- * cambiar su posicion relativa en el grupo: llevarlo al frente (arriba 
- * del todo), llevarlo al fondo (debajo del todo), ...
- * 
- * La manera de seleccionar el poligono a mover en el grupo, es dando un
- * punto visible del poligono, es decir, dando un punto que no pertenezca
- * a los poligonos que aparecen superpuestos en el dibujo.
- *
- * @author IIP - Practica 7
- * @version Curso 2022/23
- */
+
 public class PolygonGroup {    
     /* COMPLETAR la definicion de la constante, atributo de clase publico */
     
