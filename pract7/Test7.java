@@ -4,14 +4,7 @@ import graph2D.Graph2D;
 import java.awt.Color;
 import java.util.Scanner;
 import java.util.Locale;
-/**
- * Clase Test7. Clase programa que prueba diferentes acciones sobre un
- * grupo de poligonos, facilitando la visualizacion del comportamiento 
- * de dichas acciones mediante una representacion grafica. 
- * 
- * @author IIP - Practica 7
- * @version Curso 2022/23
- */
+
 public class Test7 {
     private Test7() { } // No se usan objetos de esta clase
     
