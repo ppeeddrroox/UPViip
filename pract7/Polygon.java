@@ -1,13 +1,7 @@
 package pract7;
 
 import java.awt.Color;
-/**
- * Clase Polygon. Poligonos solidos (de un determinado color) en el plano,
- * dados por la secuencia de sus vertices.
- * 
- * @author IIP - Practica 7
- * @version Curso 2022/23
- */
+
 public class Polygon { 
     /* COMPLETAR la definicion de atributos de instancia privados */
     private Point[] v;
