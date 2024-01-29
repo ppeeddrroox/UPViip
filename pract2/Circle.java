@@ -1,11 +1,6 @@
 package pract2;
 
-/** 
- * Clase Circle: define un círculo de un determinado radio, color y
- * posición de su centro, con la funcionalidad que aparece a continuación.
- * @author IIP 
- * @version Práctica 2 - Curso 2022/23
- */ 
+
 public class Circle {
     private double radius; 
     private String color;
@@ -88,4 +83,4 @@ public class Circle {
         return res; 
     }
 
-} // de Circle
+} 
