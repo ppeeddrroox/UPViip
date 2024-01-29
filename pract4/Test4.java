@@ -1,11 +1,6 @@
 package pract4;
 import java.util.Scanner;
-/**
- *  Clase Test4.
- *  Clase de prueba de TimeInstat.
- *  @author IIP 
- *  @version Curso 2021-22
- */
+
 public class Test4 {
     
     /** No hay objetos de esta clase */
