@@ -1,12 +1,6 @@
 package pract6;
 
 
-/**
- * Write a description of class IIPMath here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 import java.util.Scanner;
 import java.util.Locale;
 
