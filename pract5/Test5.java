@@ -4,23 +4,7 @@ package pract5;
 
 
 import java.util.Scanner;
-/**
- * Clase {@code Test5}: permite probar parte de la funcionalidad 
- * de la clase {@link DateTime}, en cuyo main se deben realizar 
- * las siguientes acciones:<br>
- * a. Solicitar al usuario que introduzca desde teclado los valores 
- *    de horas, minutos, dÃ­a, mes y anyo.
- * b. Si los datos no corresponden a un instante y una fecha correctos, 
- *    mostrar un mensaje por pantalla.
- * c. Si lo son:
- *    - Crear un DateTime dT con estos datos.
- *    - Crear un DateTime now con la fecha y el instante UTC actuales.
- *    - Comparar dT y now.
- *    - Mostrar por pantalla si dT es anterior, posterior o igual a now.
- *    
- * @author IIP 
- * @version Curso 2022-23
- */
+
 public class Test5 {
     /** No hay objetos de esta clase. */
     private Test5() { }
