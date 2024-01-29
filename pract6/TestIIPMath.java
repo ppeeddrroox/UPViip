@@ -1,12 +1,6 @@
 package pract6;
 
 
-/**
- * Write a description of class TestIIPMath here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 import graph2D.Graph2D;
 import java.awt.Color;
 import java.util.Scanner;
