@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TestIIPMath
+comment1.params=
+comment1.target=void\ table()
+comment1.text=Escribe\ en\ la\ salida\ est\u00E1ndar,\ l\u00EDnea\ a\ l\u00EDnea,\ los\ valores\ de\ Math.sin(x)\ \r\n\ e\ IIPMath.sin(x),\ para\ x\ desde\ 0\ a\ 20\ radianes.\r\n\ Muestra\ la\ diferencia\ en\ valor\ absoluto\ entre\ estos\ valores.\r\n
+comment2.params=
+comment2.target=void\ graph()
+numComments=3

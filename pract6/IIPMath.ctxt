@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=IIPMath
+comment1.params=
+comment1.target=IIPMath()
+comment1.text=Devuelve\ el\ seno\ del\ \u00E1ngulo\ x,\ con\ un\ error\ m\u00E1ximo\ epsilon.\r\n\ Precondici\u00F3n\:\ x\ en\ radianes,\ 0\ <\ epsilon.\r\n\ @param\ x\ son\ los\ grados\ en\ radianes\ \r\n\ @return\ el\ seno\ de\ x\r\n
+comment2.params=x\ epsilon
+comment2.target=double\ sin(double,\ double)
+comment2.text=Devuelve\ el\ seno\ del\ \u00E1ngulo\ x,\ con\ un\ error\ m\u00E1ximo\ epsilon.\r\nPrecondici\u00F3n\:\ x\ en\ radianes,\ 0\ <\ epsilon
+comment3.params=x
+comment3.target=double\ sin(double)
+comment3.text=Devuelve\ el\ seno\ del\ \u00E1ngulo\ x,\ con\ un\ error\ m\u00E1ximo\ de\ 1E-15.\r\n\ Precondici\u00F3n\:\ x\ en\ radianes.\r\n\ @param\ x\ double\ que\ representa\ el\ \u00E1ngulo\ (en\ radianes)\ \r\n\ cuyo\ seno\ queremos\ calcular\r\n\ @return\ double,\ seno\ del\ \u00E1ngulo\ aportado.\r\n
+comment4.params=x
+comment4.target=double\ reducFirstCirc(double)
+comment4.text=\ Adapta\ el\ \u00E1ngulo\ x\ (en\ radianes)\ introducido\ en\ los\ m\u00E9todos\ para\ calcular\r\n\ el\ seno\ para\ entrar\ dentro\ del\ intervalo[-2PI,\ 2PI].\r\n\ @param\ x\ double\ que\ representa\ el\ \u00E1ngulo\ (en\ radianes)\ \r\n\ cuyo\ seno\ queremos\ calcular.\r\n
+numComments=5
