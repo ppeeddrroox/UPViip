@@ -2,14 +2,6 @@ package pract3;
 
 import java.util.Scanner;
 
-/**
- *  Clase Test3.
- *  Una primera clase con lectura de datos desde teclado, 
- *  y uso de operaciones con int, long, Math y String.
- *  Contiene tres errores de compilacion.
- *  @author IIP 
- *  @version Curso 2021-22
- */
  
 public class Test3 { 
 
