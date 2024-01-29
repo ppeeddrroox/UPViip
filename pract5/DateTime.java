@@ -2,13 +2,7 @@ package pract5;
 
 
 import pract4.TimeInstant;
-/**
- * La clase {@code DateTime} permite representar un instante de una fecha 
- * (dia, mes y anyo) concreta.
- * 
- * @author IIP 
- * @version Curso 2022-23
- */
+
 public class DateTime { 
     // Atributos
     /** Atributo privado que representa el día del DateTime. */
